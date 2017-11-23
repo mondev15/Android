@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MenuList</string>
+    <string-array name="MenuItems">
+        <item>Article</item>
+        <item>Image</item>
+        <item>Drawing</item>
+        <item>Sensor</item>
+        <item>Text Editor</item>
+        <item>Sequence Images</item>
+    </string-array>
+    <string name="texte">
+        Games are used in education at all levels for quite long time.
+        Most educational games intend to introduce trainees to a new subject
+        and present them with new knowledge when others allow then to acquire
+        and improve certain skills. This paper presents the "Teaching Game",
+        an implementation that explores the....
+    </string>
+    <declare-styleable name="MyDrawView">
+    </declare-styleable>
+</resources>

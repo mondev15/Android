@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TableLayout
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Button android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Back"
+        xmlns:android="http://schemas.android.com/apk/res/android" />
+
+<TextView android:id="@+id/article"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:text="@string/texte"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
+
+</TableLayout>
